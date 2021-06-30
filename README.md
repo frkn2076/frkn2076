@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Golang and Flutter.
 - 🔭 I’m currently working on .Net, Golang and Flutter.
 - ⚡ I’m an author on codewars. https://www.codewars.com/collections/ill-take-your-bet-youre-gonna-regret
+- 👯 I’m looking to collaborate or share an open source project
 - 😄 I’m hungry to learn.
 
 <br>
