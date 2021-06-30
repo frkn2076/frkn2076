@@ -13,17 +13,10 @@ Here are some ideas to get you started:
 ### 🤵 About Me:
 - 🌱 I’m currently learning Golang and Flutter.
 - 🔭 I’m currently working on .Net, Golang and Flutter.
-- 👯 I’m an author on codewars. https://www.codewars.com/collections/ill-take-your-bet-youre-gonna-regret
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ I’m an author on codewars. https://www.codewars.com/collections/ill-take-your-bet-youre-gonna-regret
+- 😄 I’m hungry to learn.
 
-
-
-
-
+<br>
 
 <p align="center">
 <a href="https://github.com/AVS1508" >
