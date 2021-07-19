@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frkn2076&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frkn2076&count_private=true&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frkn2076&langs_count=8&theme=radical&layout=compact&hide=html,css,MQL4" />
 </a>
 </p>
