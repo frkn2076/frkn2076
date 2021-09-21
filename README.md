@@ -4,8 +4,8 @@
 </p>
 
 ### 🤵 About Me:
-- 🌱 I’m currently improving my skills on Golang and Flutter.
-- 🔭 I’m currently working on .Net, Golang and Flutter.
+- 🌱 I’m currently improving my skills on .Net 6.0, Golang and Flutter.
+- 🔭 I’m currently working on .Net 6.0, Golang.
 - ⚡ I’m an author on codewars. https://www.codewars.com/collections/ill-take-your-bet-youre-gonna-regret
 - 👯 I’m looking to collaborate or share an open source project
 - 😄 I’m hungry to learn.
