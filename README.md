@@ -4,7 +4,7 @@
 </p>
 
 ### 🤵 About Me:
-- 🔭 I’m currently working on .Net 6 and C# 10.0.
+- 🔭 I’m currently working on .Net.
 - 🌱 I’m currently improving my skills on Golang and Flutter.
 - ⚡ I’m an author on codewars. https://www.codewars.com/collections/ill-take-your-bet-youre-gonna-regret
 - 👯 I’m looking to collaborate or share an open source project
